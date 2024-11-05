@@ -3,7 +3,7 @@ package routers
 //cada entidad va atenr un archivo en la carpeta de base de datos y router: categori, products, users...
 import (
 	"encoding/json"
-	"github.com/aws/aws-lambda-go/events"
+	//"github.com/aws/aws-lambda-go/events"
 	"github.com/gambit/bd"
 	"github.com/gambit/models"
 	"strconv"
